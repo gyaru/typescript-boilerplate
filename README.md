@@ -1,0 +1,1 @@
+# Minimalistic boilerplate for TypeScript projects.
