@@ -1,6 +1,7 @@
 {
   "name": "typescript-boilerplate",
   "version": "0.0.1",
+  "type": "module",
   "description": "Minimalistic boilerplate for TypeScript projects.",
   "scripts": {
     "start": "node build/src/main.js",
